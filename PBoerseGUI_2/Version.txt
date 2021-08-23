@@ -1,0 +1,14 @@
+2021-07-19-1500 fehlende SSL dll werden gemeldet
+2021-07-20-1100 Karte positioniert nach GeoInfo auf den Standort des Aufrufers  dkr
+2021-07-20-1500 fehlende SSL download link der dll wird angeboten Hinweis auf Versionsnummer
+2021-07-20-1530 version zeigt changelog
+2021-07-21-1000 Menü ergänzt um die Slots Hilfe Tutorial und Fehlerbehandlung
+2021-07-21-1400 Tutorial kann als eigenstände Browserseite geöffnet werden
+                Tutorial ist eine HTML Datei
+2021-07-21-1430 Fehlererläuterungen können als eigenstände Browserseite geöffnet werden
+                für jeden Fehler kann eine eigene HTML Datei hinterlegt werden
+2021-07-22-1200 Datenbankklasse
+2021-07-22-1500 GUI weitere Eingabemasken
+2021-07-23-1000 Methode zur Aktualsierung der TableView mit SQK Abfrageergebnis
+2021-07-23-1300 Statische Methode zu Anzeige von MsgBoxen
+2021-07-23-1400 Beispiel für eine CrossTable Suche

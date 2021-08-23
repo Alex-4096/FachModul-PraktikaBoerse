@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GenMap.qml</file>
+        <file>pics/bluemarker.png</file>
+        <file>pics/png-transparent-location-icon-computer-icredmarker.png</file>
+        <file>pics/redmarker.jpg</file>
+        <file>pics/redpin.jpg</file>
+        <file>pics/redmarker.png</file>
+        <file>pics/left.png</file>
+    </qresource>
+</RCC>
