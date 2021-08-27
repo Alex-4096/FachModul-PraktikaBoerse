@@ -1,0 +1,26 @@
+App ID:
+G5QkjWjOys7cssvuX6x0
+
+API-Key
+qY3kPffSEqNyLYw8OleHjCcfKiUWBy9EIGIHIwC-u8o
+
+
+PluginParameter { name: "here.app_id"; value: "myapp" }
+    PluginParameter { name: "here.token"; value: "abcdefg12345" }
+	
+	
+	
+	PluginParameter { name: "here.app_id"; value: "myapp" }
+    PluginParameter { name: "here.token"; value: "abcdefg12345" }
+
+
+92.73.148.222
+33602 -> Bielefeld
+latitude: 52.022499084472656
+longitude: 8.536970138549805
+............................
+Siegen:
+Lat: 50.932011
+Lon: 8.221204
+
+https://www.koordinaten-umrechner.de/

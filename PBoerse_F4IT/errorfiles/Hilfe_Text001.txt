@@ -1,0 +1,43 @@
+Fehlercode 001 
+"OpenSSL 1.1.1d 10 sep 2019 für 5.15.0 wurde nicht gefunden"
+
+Was bedeutet das?
+Die DLL Dateien sind Plug-ins, die genötigt werden, damit QT sich verbinden kann mit MySQL/MariaDB.
+
+Tutorial:
+
+1) Download
+gehe auf die Seite 
+https://github.com/thecodemonkey86/qt_mysql_driver/releases
+und downloade den "QMYSQL driver 5.15.0"
+
+ACHTUNG: Falls sie eine andere QT Version besitzen,
+downloaden sie die ensprechende Version auf dieser Seite.
+
+2) Datei entpacken
+Entpacken sie die Den Ordner.
+Darin sind 3 Daten zu entdecken:
+
+libcrypto-1_1-x64.dll
+libmysql.dll
+libssl-1_1^-x64.dll
+
+3) Datei verschieben 
+verschiebe diese 2 Dateien:
+
+- libcrypto-1_1-x64.dll
+- libssl-1_1^-x64.dll
+
+In den Ordner, indem sich das Programmverzeichnis (Build) befindet. 
+Dieser ist eins vor dem Projektordner.
+
+Beispiel:
+C:\Users\Hostname\Desktop\build-Praktikaboerse-Desktop_Qt_5_15_0_MinGW_64_bit-Debug
+
+
+
+
+
+
+
+
